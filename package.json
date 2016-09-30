@@ -1,0 +1,22 @@
+{
+  "name": "swingstate",
+  "version": "1.0.0",
+  "description": "Find your friends that live in a state that may tip the election",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganrm/findswingstatefriends.git"
+  },
+  "author": "Megan Riel-Mehan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "bugs": {
+    "url": "https://github.com/meganrm/findswingstatefriends/issues"
+  },
+  "homepage": "https://github.com/meganrm/findswingstatefriends#readme"
+}
